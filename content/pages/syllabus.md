@@ -26,10 +26,39 @@ Prerequisites
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Problem Sets | 30% |
-| Final Exam | 70% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+70%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Bonus points are also given for class participation.
 
@@ -43,21 +72,241 @@ Barro, R. J., and X. Sala-i-Martin. _Economic Growth_. New York, NY: McGraw-Hill
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**I. An Introduction to Growth Models and Growth Facts**{{< /td-colspan >}} |||
-| L1-L2 |  {{< br >}}{{< br >}} Syllabus, Introduction {{< br >}}{{< br >}} Economic Growth and Economic Development {{< br >}}{{< br >}} The Solow Growth Model {{< br >}}{{< br >}} The Solow Growth Model and the Data {{< br >}}{{< br >}}  | &nbsp; |
-| R1 | Empirics of Economic Growth | &nbsp; |
-| {{< td-colspan 3 >}}**II. The Neoclassical Growth Model**{{< /td-colspan >}} |||
-| L3-L6 |  {{< br >}}{{< br >}} Foundations of Neoclassical Growth {{< br >}}{{< br >}} Dynamic Programming and Optimal Growth {{< br >}}{{< br >}} Review of the Theory of Optimal Control {{< br >}}{{< br >}} The Neoclassical Growth Model {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Problem set 1 out on Ses #L4 {{< br >}}{{< br >}} Problem set 1 due and Problem set 2 out on Ses #L6 {{< br >}}{{< br >}}  |
-| R2 | The Neoclassical Growth Model | &nbsp; |
-| {{< td-colspan 3 >}}**III. Using the Neoclassical Growth Model Beyond Growth: Asset Pricing, Public Finance, Overlapping Generations**{{< /td-colspan >}} |||
-| L7-L8 | Growth with Overlapping Generations | Problem set 2 due on Ses #L8 |
-| R3 | Applications of the Neoclassical Growth Model | Problem set 3 out |
-| {{< td-colspan 3 >}}**IV. Endogenous Growth I: AK, Spillovers, Human Capital**{{< /td-colspan >}} |||
-| L9-L10 |  {{< br >}}{{< br >}} Human Capital and Economic Growth {{< br >}}{{< br >}} First-Generation Models of Endogenous Growth {{< br >}}{{< br >}}  | &nbsp; |
-| R4 | Optimization Methods |  {{< br >}}{{< br >}} Problem set 3 due {{< br >}}{{< br >}} Problem set 4 out {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**V. Endogenous Growth II: R&D, Varieties vs. Quality, Directed Technological Change**{{< /td-colspan >}} |||
-| L11-L12 |  {{< br >}}{{< br >}} Expanding Variety Models {{< br >}}{{< br >}} Models of Competitive Innovations {{< br >}}{{< br >}} Directed Technological Change {{< br >}}{{< br >}}  | &nbsp; |
-| R5 | Expanding Variety Models |  {{< br >}}{{< br >}} Problem set 4 due {{< br >}}{{< br >}} Problem set 5 out {{< br >}}{{< br >}}  |
-| L13 | Summary |  {{< br >}}{{< br >}} Problem set 5 due {{< br >}}{{< br >}} Final Exam four days after Ses #L13 {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**I. An Introduction to Growth Models and Growth Facts**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1-L2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Syllabus, Introduction
+
+Economic Growth and Economic Development
+
+The Solow Growth Model
+
+The Solow Growth Model and the Data
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R1
+{{< tdclose >}}
+{{< tdopen >}}
+Empirics of Economic Growth
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**II. The Neoclassical Growth Model**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L3-L6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Foundations of Neoclassical Growth
+
+Dynamic Programming and Optimal Growth
+
+Review of the Theory of Optimal Control
+
+The Neoclassical Growth Model
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 1 out on Ses #L4
+
+Problem set 1 due and Problem set 2 out on Ses #L6
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R2
+{{< tdclose >}}
+{{< tdopen >}}
+The Neoclassical Growth Model
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**III. Using the Neoclassical Growth Model Beyond Growth: Asset Pricing, Public Finance, Overlapping Generations**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L7-L8
+{{< tdclose >}}
+{{< tdopen >}}
+Growth with Overlapping Generations
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due on Ses #L8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R3
+{{< tdclose >}}
+{{< tdopen >}}
+Applications of the Neoclassical Growth Model
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**IV. Endogenous Growth I: AK, Spillovers, Human Capital**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L9-L10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Human Capital and Economic Growth
+
+First-Generation Models of Endogenous Growth
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R4
+{{< tdclose >}}
+{{< tdopen >}}
+Optimization Methods
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 3 due
+
+Problem set 4 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**V. Endogenous Growth II: R&D, Varieties vs. Quality, Directed Technological Change**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L11-L12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Expanding Variety Models
+
+Models of Competitive Innovations
+
+Directed Technological Change
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R5
+{{< tdclose >}}
+{{< tdopen >}}
+Expanding Variety Models
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 4 due
+
+Problem set 5 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L13
+{{< tdclose >}}
+{{< tdopen >}}
+Summary
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 5 due
+
+Final Exam four days after Ses #L13
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

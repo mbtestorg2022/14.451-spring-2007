@@ -12,6 +12,7 @@ description: 'This resource contains lecture notes providing an Introduction to 
   The Golden Rule, and Poverty Traps, Cycles, Endogenous Growth, etc.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/14-451-macroeconomic-theory-i-spring-2007/be570008819f559d474af381a50c773b_notes_ch_1_and_2.pdf
 file_type: application/pdf
+parent_uid: e27f3328-da61-ee16-dd4a-53665eb2fd00
 resourcetype: Document
 title: notes_ch_1_and_2.pdf
 uid: be570008-819f-559d-474a-f381a50c773b

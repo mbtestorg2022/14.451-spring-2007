@@ -6,6 +6,7 @@ description: 'This resource contains lecture notes on Using the NGM Beyond Growt
   Consumer, Fiscal Policy, and Asset Pricing and CCAPM.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/14-451-macroeconomic-theory-i-spring-2007/a6d8ac78c43c4e5e0d70b91ff959bc44_notes_ch_4.pdf
 file_type: application/pdf
+parent_uid: e27f3328-da61-ee16-dd4a-53665eb2fd00
 resourcetype: Document
 title: notes_ch_4.pdf
 uid: a6d8ac78-c43c-4e5e-0d70-b91ff959bc44
